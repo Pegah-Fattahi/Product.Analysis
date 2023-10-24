@@ -1,10 +1,13 @@
-## E-commerce Data Analysis 
+## Project Name: E-commerce Data Analysis 
+
 # Overview
 This repository contains analytical insights derived from the turing_data_analytics.raw_events table, showcasing the sales dynamics of an e-commerce platform over a period spanning from 2020-11-01 to 2021-01-31.
 
 ## Data
 Source Table: turing_data_analytics.raw_events
+
 Period Covered: 2020-11-01 to 2021-01-31
+
 Description: The table encapsulates various frontend actions carried out on the e-commerce platform. 
 
 
@@ -13,6 +16,7 @@ Description: The table encapsulates various frontend actions carried out on the 
 
 ## Tools Used
 SQL: For data extraction and manipulation from the turing_data_analytics.raw_events table.
+
 Visualization Tools: Google Spreadsheets for presenting the data in a comprehensive and intuitive manner.
 
 
